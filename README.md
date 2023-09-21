@@ -1,17 +1,10 @@
-# Project Diploma New Explorer API Front End + Back End
-* Part of the [CN by Yandex](https://CN.yandex.com/) Web Development Bootcamp Curriculum.
+# Project  News Explorer API Front End + Back End
 
-Demo link - Front-end TBD 
-/
 
 # news-explorer-api-frontend
 The "New Explorer API" has authorization and registration handled by the back-end server and handles articles and users. 
 
-### Server
-- Api hosted on AWS Cloud
-- Server IP: 3.142.148.60
-- Back-end/Api: /
-- Front-end: TBD
+
 
 The Express NodeJs project implements the API in the backend.
 
